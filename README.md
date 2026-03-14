@@ -69,6 +69,12 @@ That's it. The database (`accounts.db`) gets created automatically next to the s
 ---
 
 ## Screenshots
+![Login](login.png)
+![Signup](signup.png)
+![Pattern](pattern.png)
+![Recovery](recovery.png)
+![Dashboard](sample_dashboard.png)
+![Add Credential](create_credentials.png)
 
 
 
