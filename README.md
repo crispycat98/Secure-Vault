@@ -78,9 +78,3 @@ That's it. The database (`accounts.db`) gets created automatically next to the s
 - Auto-clear clipboard after 30 seconds on copy
 - Audit log — track login history per account
 - Windows/macOS packaging so it runs as a standalone `.exe` / `.app`
-
----
-
-## License
-
-MIT
