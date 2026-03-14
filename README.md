@@ -70,11 +70,7 @@ That's it. The database (`accounts.db`) gets created automatically next to the s
 
 ## Screenshots
 
-> Login → Pattern Auth → Vault Dashboard → Add Credential
 
-*(add your screenshots here)*
-
----
 
 ## What I'd add with more time
 
