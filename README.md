@@ -69,12 +69,14 @@ That's it. The database (`accounts.db`) gets created automatically next to the s
 ---
 
 ## Screenshots
+![Login](login.png)
+![Signup](signup.png)
+![Pattern](pattern.png)
+![Recovery](recovery.png)
+![Dashboard](sample_dashboard.png)
+![Add Credential](create_credentials.png)
 
-> Login → Pattern Auth → Vault Dashboard → Add Credential
 
-*(add your screenshots here)*
-
----
 
 ## What I'd add with more time
 
@@ -82,9 +84,3 @@ That's it. The database (`accounts.db`) gets created automatically next to the s
 - Auto-clear clipboard after 30 seconds on copy
 - Audit log — track login history per account
 - Windows/macOS packaging so it runs as a standalone `.exe` / `.app`
-
----
-
-## License
-
-MIT
